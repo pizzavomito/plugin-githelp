@@ -12,15 +12,19 @@
 
 ## Install
 
-```fish
-$ omf install githelp
+```bash
+$ omf install https://github.com/pizzavomito/plugin-githelp
 ```
 
 
 ## Usage
 
-```fish
+```bash
 $ githelp
+githelp usage
+gitback : return to the previous branch
+gitbacklist : show the list of the previous branches
+gitquickcommit: git add + commit + push
 ```
 
 
